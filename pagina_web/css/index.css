@@ -1,0 +1,32 @@
+.texto{
+    font-size: 30;
+    font-family: cursive;
+    color: black;
+    background-color: rgb(209, 209, 146);
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.titulo_parrafo{
+    font-size: 25;
+    font-family: cursive;
+}
+
+.titulo_parrafo2{
+    font-size: 18;
+    font-family: cursive;
+}
+
+.titulo_parrafo3{
+    font-size: 18;
+    font-family: cursive;
+}
+
+.parrafo img{
+    float: right;
+    margin-right: 200;
+}
+
+.color{
+    background-color: rgb(165, 180, 94);
+}
